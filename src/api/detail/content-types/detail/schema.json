@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "details",
+  "info": {
+    "singularName": "detail",
+    "pluralName": "details",
+    "displayName": "Detail"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "About": {
+      "type": "text"
+    },
+    "PID": {
+      "type": "string"
+    }
+  }
+}
